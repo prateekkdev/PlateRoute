@@ -105,7 +105,7 @@ PlateRoute.ai is designed to live inside Swiggy's platform rules, not around the
 
 ## Contact
 
-Built by [your name] — reach out at [your email] or [LinkedIn].
+Built by Prateek Kesarwani — reach out at prateekk.dev@gmail.com or https://www.linkedin.com/in/pkesarwani/.
 
 ---
 
